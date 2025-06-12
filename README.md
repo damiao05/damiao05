@@ -9,12 +9,12 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=damiao05&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### 🌐 Contato
-- [LinkedIn]([https://www.linkedin.com/in/arthur-damiao-/])
+- [LinkedIn](https://www.linkedin.com/in/arthur-damiao-/)
 - Email: damiaoads2005@gmail.com
 
 
