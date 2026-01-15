@@ -17,11 +17,13 @@
 
 ### Minhas Contribuições em 3D 🚀
 
-![Gráfico 3D](./profile-3d-contrib/profile-2026.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=damiao05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=damiao05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 ### 🌐 Contato
