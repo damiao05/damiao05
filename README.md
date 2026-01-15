@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bem-vindo&fontSize=70)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Meu%20Perfil&fontSize=70" />
+</p>
 <h1 align="center">Olá! Eu sou o Arthur Damião 👋</h1>
 
 - 👨‍💻 Estagiário de TI Full Stack
