@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Meu%20Perfil&fontSize=70" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Software;Entusiasta+de+Tecnologia)
 <h1 align="center">Olá! Eu sou o Arthur Damião 👋</h1>
 
 - 👨‍💻 Estagiário de TI Full Stack
