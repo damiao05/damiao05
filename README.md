@@ -19,10 +19,10 @@
 
 ![Gráfico 3D](profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damiao05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damiao05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
 ### 🌐 Contato
 - [LinkedIn](https://www.linkedin.com/in/arthur-damiao-/)
