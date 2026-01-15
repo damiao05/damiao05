@@ -9,13 +9,13 @@
 - 📚 Cursando Ciência da Computação
 - 🚀 Interesses: Desenvolvimento Web, APIs, Banco de Dados, Machine Learning, Cloud e DevOps
 
+
 ### 🛠 Ferramentas e Tecnologias
 
 - **Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - **Frontend:** ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - **Database:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- **Trabalho Atualmente com:** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+  
 
 ### Minhas Contribuições em 3D 🚀
 
@@ -27,6 +27,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=damiao05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ### 🌐 Contato
 - [LinkedIn](https://www.linkedin.com/in/arthur-damiao-/)
