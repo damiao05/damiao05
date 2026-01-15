@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=70)
 <h1 align="center">Olá! Eu sou o Arthur Damião 👋</h1>
 
 - 👨‍💻 Estagiário de TI Full Stack
