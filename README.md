@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Arthur Damião 👋</h1>
 
 - 👨‍💻 Estagiário de TI Full Stack
-- 🌱 Atualmente estudando **Java**
+- 🌱 Atualmente estudando **Java, C# e Angular**
 - 💼 Trabalhando com **PHP, PostgreSQL, CodeIgniter, JavaScript**
 - 📚 Cursando Ciência da Computação
 - 🚀 Interesses: Desenvolvimento Web, APIs, Banco de Dados, Machine Learning, Cloud e DevOps
