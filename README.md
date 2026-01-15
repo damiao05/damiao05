@@ -29,6 +29,10 @@
 </div>
 
 
+### 📊 Estatísticas de Codificação (Semanais)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=damiao05&theme=tokyonight&layout=compact)
+
+
 <div align="center">
   <a href="[https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/arthur-damiao-/)">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
