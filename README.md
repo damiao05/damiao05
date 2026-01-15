@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Software;Entusiasta+de+Tecnologia)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Arthur+Damião;Estagiário+de+TI+Full+Stack;Entusiasta+de+Tecnologia" alt="Typing SVG" />
+</p>
 <h1 align="center">Olá! Eu sou o Arthur Damião 👋</h1>
 
 - 👨‍💻 Estagiário de TI Full Stack
@@ -6,11 +8,21 @@
 - 💼 Trabalhando com **PHP, PostgreSQL, CodeIgniter, JavaScript**
 - 📚 Cursando Ciência da Computação
 - 🚀 Interesses: Desenvolvimento Web, APIs, Banco de Dados, Machine Learning, Cloud e DevOps
-- 🛠️ Tecnologias: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🛠 Ferramentas e Tecnologias
+
+- **Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- **Frontend:** ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- **Database:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Minhas Contribuições em 3D 🚀
 
 ![Gráfico 3D](profile-3d-contrib/profile-night-rainbow.svg)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damiao05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ### 🌐 Contato
 - [LinkedIn](https://www.linkedin.com/in/arthur-damiao-/)
