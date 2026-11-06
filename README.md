@@ -3,9 +3,9 @@
 </p>
 <!-- <h1 align="center">Olá! Eu sou o Arthur Damião 👋</h1> -->
 
-- 👨‍💻 Estagiário de TI Full Stack
-- 🌱 Atualmente estudando **Java, C# e Angular**
-- 💼 Trabalhando com **PHP, PostgreSQL, CodeIgniter, JavaScript**
+- 👨‍💻 Desenvolvedor Full Stack Júnior
+- 🌱 Atualmente estudando **Java e Angular**
+- 💼 Trabalhando com **PHP, PostgreSQL, CodeIgniter, JavaScript, Oracle Linux**
 - 📚 Cursando Ciência da Computação
 - 🚀 Interesses: Desenvolvimento Web, APIs, Banco de Dados, Machine Learning, Cloud e DevOps
 
@@ -22,11 +22,6 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=damiao05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=damiao05&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
 
 
 <div align="center">
